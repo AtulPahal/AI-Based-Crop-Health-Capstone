@@ -4,7 +4,7 @@
 > *-- Built by an aspiring AI Student 🤖🎓*
 
 ---
-
+ 
 ## 👋 Hello World!
 Welcome to my **Capstone Project**! I'm an AI student learning how to use Machine Learning to solve real-world problems. This project is all about **Precision Agriculture**. 
 

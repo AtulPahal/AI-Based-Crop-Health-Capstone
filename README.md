@@ -1,4 +1,4 @@
-# 🌱 AI Based Crop Health Monitoring Capstone Project 🚜
+# 🌱 AI Based Crop Health Monitoring Capstone Project 🚜 
 
 > **"Helping farmers see what their eyes can't!"**  
 > *-- Built by an aspiring AI Student 🤖🎓*
